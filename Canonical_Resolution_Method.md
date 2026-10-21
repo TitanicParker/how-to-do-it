@@ -5800,3 +5800,27 @@ All 32 first-pass record blobs and revision 02 are identified beside the embedde
 
 **End of Edition 1 — 32 first-pass investigations; A-007 revision 02 preserved; next expected investigation A-033.**
 
+
+
+---
+
+## Edition 1 addendum — A-033 (21 October 2026)
+
+**Research status:** 33/200 first-pass investigations; A-007 revision 02 remains a separate revision. **Next: A-034.** This append-only addendum does not retroactively alter the original Edition 1 case texts or canonical definitions. [Complete A-033 frozen record and Gate Two diligence](laboratory/resolutions/A-033.md); [live register](laboratory/RESOLUTION_REGISTER.md); [public receipt](sentence-receipts.html#A-033).
+
+**A-033 exact source:** “Trade winds helped connect distant shores long before airplanes crossed the oceans.”
+
+**Frozen Operative Centre:** “Trade winds' assistance in connecting distant shores is established as an accomplishment already occurring substantially before ocean-crossing aviation.” The full frozen confirmation record, six answers, counterfactuals and holding tests are preserved verbatim in the linked case file. The connecting contribution is what receives temporal determination; the comparison establishes its substantial historical precedence. Full candidate Centre formulations proved alternative emphases on one achievement, not three rival achievements. The One-Way Threshold was declared before taxonomy.
+
+**Gate Two:** **Candidate 22 — Sequential link; Relating × Distributed × Standing**; **nearest rival 23 — Reciprocal shift (Bearing)**; **secondary topology rival 19 — Direct bearing (Focal)**. Moderate candidate confidence; **uniqueness not established**. This was a collaborative, tutored, non-blind investigation, **not independent replication**.
+
+**Methodological lessons from the preserved investigation:**
+- Historical operative assistance needs no present-day continuation or additional downstream effect to count as achieved.
+- Do not infer governing precedence solely because a comparison completes the sentence, or governing contribution solely because the contribution is independently intelligible.
+- Before declaring two Centres rivals, ask what each full account actually entails that the other omits. A joint Centre must explain the organisation, not merely list indispensable terms.
+- A constitutive temporal comparison need not be causal; requiring two terms for a comparison does not itself decide persistence.
+- **Bearing** does not require an ongoing condition or a further sustaining process; constitutive contrast or frame can suffice.
+- **Focal** is not excluded because other contributions are necessary. The positive Distributed argument must establish a constitutive temporal span as the locus of completion; A-033 retains this as an open topology question.
+- The distinction between a historical determination that stands and a result held through constitutive bearing is still open to independent challenge. Do not overstate uniqueness.
+
+**Diligence queue:** A-033-D1 Standing/Bearing; A-033-D2 Distributed/Focal; A-033-D3 independent blind replication; A-033-D4 separately preserved Gate One revision if a future source-based repair is genuinely needed. The live research file and register control all later status updates.
