@@ -76,6 +76,8 @@ Only after your own attempt, open the corresponding [sentence receipt](https://t
 
 Use the [research workflow](https://titanicparker.github.io/everything-fresh/WORKFLOW.html) and [current register](https://titanicparker.github.io/everything-fresh/RESOLUTION_REGISTER.html) when moving from learning exercises to research records.
 
+**A-034 — a new structural discovery:** [One door, four meanings](continuing-practice.html#a-034-one-door-four-meanings-find-the-three-axes-together) shows how Opening × Focal × Efficacy emerge together from the corrected Centre. The investigation tests rival cells at full strength and preserves the correction of an invented selection problem.
+
 ## How the two places work together
 
 | Place | Its role | Use it when |
