@@ -3,9 +3,9 @@
 
 Work on one sentence at a time. Write your proposed Centre, its indispensable contributions, the six confirmation answers and a revealing small change before opening the comparison below. Use the [worksheet](workbook.html#your-reusable-centre-finding-worksheet) or return to the [learning path](learning-path.html).
 
-The comparison sections reproduce the **recorded Centre**, not a fresh independent analysis or an infallible answer key. They withhold cell names and axes so you can concentrate on the achievement. The research links expose full classifications; follow them after your attempt. Explain a substantive disagreement rather than matching words.
+The comparison sections reveal the **discovered Centre** after you have tried the exercise. They withhold cell names and axes so you can concentrate on the achievement. The research links expose full classifications; follow them after your attempt. Explain a substantive disagreement rather than matching words.
 
-**Source checkpoint:** 21 October 2026; Everything Fresh commit `911699684b509b97c9be2e10e2fb348d2aeab5be`. These fifteen records are teaching comparisons. The [live register](https://titanicparker.github.io/everything-fresh/RESOLUTION_REGISTER.html) and [current receipts](https://titanicparker.github.io/everything-fresh/sentence-receipts.html) preserve later results, statuses and revisions.
+**Connection to current research:** These exercises draw on the Everything Fresh investigations. Follow the [live register](https://titanicparker.github.io/everything-fresh/RESOLUTION_REGISTER.html) for the latest results.
 
 ## A-011
 
