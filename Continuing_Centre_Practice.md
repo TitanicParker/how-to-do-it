@@ -292,6 +292,28 @@ Compare the exact achievement, its qualifications and its indispensable organisa
 
 </details>
 
+
+## A-033 — an additional Centre-first challenge (collaborative research)
+
+> Trade winds helped connect distant shores long before airplanes crossed the oceans.
+
+**Investigate before opening the comparison:** What exactly receives the temporal determination? Is the connecting contribution, its substantial precedence, or their organised completion the governing achievement? Construct serious candidate Centres, identify any *material* disagreement between them, and test one controlled alteration. Do not infer that the final clause governs simply because it completes the wording.
+
+<details>
+<summary>After your attempt: compare the frozen research Centre</summary>
+
+**Frozen Centre:** Trade winds' assistance in connecting distant shores is established as an accomplishment already occurring substantially before ocean-crossing aviation.
+
+**Recorded holding account:** What remains achieved is the trade winds' assistance in connecting distant shores as substantially prior to ocean-crossing aviation; it holds as this achievement because the actual connecting contribution is determined by its specified historical precedence, with the contribution supplying what occurred and the comparison establishing its historical placement; removing the assistance would defeat the connecting accomplishment, while removing or reversing the precedence would defeat its completed historical determination.
+
+**Method lesson:** The full contribution-focused, precedence-focused and integrated formulations proved to preserve one achievement rather than different achievements. A historically operative contribution needs no further present-day consequence. Requiring both contributions does not by itself establish which one governs or where completion is located. The later benchmark constitutes the exact historical comparison without causing the earlier assistance.
+
+**Research status:** Candidate 22 — Sequential link (Relating × Distributed × Standing); nearest persistence rival 23 — Reciprocal shift (Bearing), secondary topology rival 19 — Direct bearing (Focal). **Moderate candidate confidence; uniqueness not established.** The source investigation was collaborative and tutored, not blind or independently replicated. Bearing does not require an ongoing sustaining process; Focal can have indispensable supporting contributions. These boundaries remain open diligence, not teaching answers to memorise.
+
+[Live research receipt](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-033) · [Full A-033 record at research commit](https://github.com/TitanicParker/everything-fresh/blob/6a0a2b16a9298b46f08837dee1215fbc731f62e2/laboratory/resolutions/A-033.md) · [Live full record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-033.md)
+
+</details>
+
 ## Continue with unfamiliar material
 
 Choose a new item from the [200-sentence corpus](workbook.html#appendix--the-complete-200-sentence-practice-corpus), preserve your unassisted record, then use the live research register to see whether a comparison is available. Absence of a record is not a licence to invent a supplied answer.
