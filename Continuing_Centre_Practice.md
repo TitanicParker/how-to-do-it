@@ -293,7 +293,7 @@ Compare the exact achievement, its qualifications and its indispensable organisa
 </details>
 
 
-## A-033 — an additional Centre-first challenge (collaborative research)
+## A-033 — discovering one achievement
 
 > Trade winds helped connect distant shores long before airplanes crossed the oceans.
 
@@ -308,7 +308,7 @@ Compare the exact achievement, its qualifications and its indispensable organisa
 
 **Method lesson:** The full contribution-focused, precedence-focused and integrated formulations proved to preserve one achievement rather than different achievements. A historically operative contribution needs no further present-day consequence. Requiring both contributions does not by itself establish which one governs or where completion is located. The later benchmark constitutes the exact historical comparison without causing the earlier assistance.
 
-**Research status:** Candidate 22 — Sequential link (Relating × Distributed × Standing); nearest persistence rival 23 — Reciprocal shift (Bearing), secondary topology rival 19 — Direct bearing (Focal). **Moderate candidate confidence; uniqueness not established.** The source investigation was collaborative and tutored, not blind or independently replicated. Bearing does not require an ongoing sustaining process; Focal can have indispensable supporting contributions. These boundaries remain open diligence, not teaching answers to memorise.
+**Research status:** Candidate 22 — Sequential link (Relating × Distributed × Standing); nearest persistence rival 23 — Reciprocal shift (Bearing), secondary topology rival 19 — Direct bearing (Focal). **Moderate candidate confidence; uniqueness not established.** Bearing does not require an ongoing sustaining process; Focal can have indispensable supporting contributions. These boundaries remain open diligence, not teaching answers to memorise.
 
 [Live research receipt](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-033) · [Full A-033 record at research commit](https://github.com/TitanicParker/everything-fresh/blob/6a0a2b16a9298b46f08837dee1215fbc731f62e2/laboratory/resolutions/A-033.md) · [Live full record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-033.md)
 
