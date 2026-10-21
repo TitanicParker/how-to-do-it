@@ -5824,3 +5824,24 @@ All 32 first-pass record blobs and revision 02 are identified beside the embedde
 - The distinction between a historical determination that stands and a result held through constitutive bearing is still open to independent challenge. Do not overstate uniqueness.
 
 **Diligence queue:** A-033-D1 Standing/Bearing; A-033-D2 Distributed/Focal; A-033-D3 independent blind replication; A-033-D4 separately preserved Gate One revision if a future source-based repair is genuinely needed. The live research file and register control all later status updates.
+
+
+---
+
+## A-034 — one source, four possibilities; corrected Centre and Cell 12 (21 October 2026)
+
+**Exact sentence:** “An open door can mean welcome, escape, opportunity, or a forgotten obligation.”
+
+**Confirmed, corrected Gate One Centre:** **One open door can give rise to four distinct possibilities of meaning: welcome, escape, opportunity, and forgotten obligation.**
+
+**Discovery:** The initial investigation added “without its actual significance being determined,” inventing a selection problem. Owner challenge established that the sentence's positive achievement is **one thing capable of four significances**. The door need not literally intend or communicate; the figurative human intelligibility of the possible meanings does not require a reported interpreter. The earlier Centre was prematurely frozen; the source-based correction is explicitly recorded, and only the corrected Centre governs final Gate Two.
+
+**Gate Two as one simultaneous conjunction:** **Opening × Focal × Efficacy**. Opening: multiple possible meanings become available through one open condition. Focal: the one open door is the privileged locus; the four possibilities exhibit its capacity, rather than serving as four independent loci. Efficacy: what holds is the accomplished capacity of the one condition to mean several things, without any actual enactment being required.
+
+**Canonical cell:** **12 — Branching output** (coordinate-generated form *Focal generative opening*; companion utterance “More ways open.”).
+
+**Nearest rivals, each at full strength:** 15 (Opening × Distributed × Efficacy) preserves the opening capacity but moves completion from the one source to the range; 13 (Opening × Distributed × Standing) makes the range stand rather than holding as focal capacity; 05 (Differentiation × Distributed × Bearing) captures different meanings through their common attribution but does not govern the branching achievement; 04 (Differentiation × Distributed × Standing) captures plurality of distinctions but makes distinction, rather than opening from one source, the achievement.
+
+**Teaching principle:** The Operative Centre is where the three axes are born together. Express each rival as a complete sentence close to the original, then ask whether it preserves the exact achieved identity. Do not infer a selection problem merely from multiple possibilities, or infer Distributed merely by counting outputs. Do not let the labels determine the Centre.
+
+**Complete source investigation:** [A-034](laboratory/resolutions/A-034.md). **Corpus progress:** 34/200; next A-035.
