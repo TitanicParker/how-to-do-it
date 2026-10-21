@@ -17,10 +17,10 @@ How to do it is the teaching route. [Everything Fresh](https://titanicparker.git
 
 Learn Centre recovery before using classifications as comparisons. The axes describe one achievement simultaneously. Research examples retain candidate, contested and revised status; the learner comparisons are not an infallible answer key.
 
-Teaching update: 21 October 2026, against Everything Fresh commit `911699684b509b97c9be2e10e2fb348d2aeab5be`. Further practice reproduces Centres and holding accounts from the A-011–A-025 records; pinned and live links identify their provenance. The original corpus wording is retained. Live progress belongs to the research register, not this dated teaching checkpoint.
+The teaching materials grow alongside the Everything Fresh investigations. Work through a Centre, then follow its research record to see how the result was tested.
 
 ## Maintain the readers
 
 Edit the Markdown sources, then run `python3 scripts/build_readers.py` from the repository root with Pandoc installed. Commit the regenerated HTML alongside its sources. GitHub Pages serves the static files from `main` at the repository root. Markdown edits alone do not rebuild the readers; there is no background synchronisation.
 
-**A-033 teaching synchronisation (21 October 2026):** The authoritative [growing method guide](Canonical_Resolution_Method.md) now matches Everything Fresh's A-033 addendum (source blob `f0287f34e5713a09c3cd56a2a995ec6a8d64e87f`). The further-practice reader includes the A-033 discovery exercise, Candidate 22 and explicit Standing/Bearing and Distributed/Focal diligence. research progress is **33/200 investigated, next A-034** at [the research register](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md). The exercises and growing guide develop together as the investigation advances.
+**A-033 teaching synchronisation (21 October 2026):** The authoritative [growing method guide](Canonical_Resolution_Method.md) now matches Everything Fresh's A-033 addendum (source blob `f0287f34e5713a09c3cd56a2a995ec6a8d64e87f`). The further-practice reader includes the A-033 discovery exercise, Candidate 22, and the Standing/Bearing and Distributed/Focal questions. Research progress is **33/200 investigated, next A-034** at the [research register](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md).
