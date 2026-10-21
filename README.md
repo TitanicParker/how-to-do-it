@@ -2,6 +2,10 @@
 
 A place to acquire the ability to identify the Operative Centre of a completed intelligibility. From that ability, learn what actually emerges from the sentence centre.
 
+## New: reading the work of language
+
+The [working-word reading guide](Reading_the_Work_of_Language.md) introduces a second way to read: identify the grammatical joints and constructions that make a sentence's meaning work, test them by substitution, recover the Operative Centre, then test the 54. Includes A-001, A-026, and the minimal pair “The door closed” / “The door is closed.” This is a research-backed teaching experiment, not a word-to-cell lookup.
+
 ## Follow the path
 
 - [Public homepage](https://titanicparker.github.io/how-to-do-it/)
