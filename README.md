@@ -8,6 +8,7 @@ A place to acquire the ability to identify the Operative Centre of a completed i
 - [Learning path: Centre finding to dimensional resolution](https://titanicparker.github.io/how-to-do-it/learning-path.html) · [source](Learning_Path.md)
 - [Ten-chapter workbook and complete 200-sentence practice corpus](https://titanicparker.github.io/how-to-do-it/workbook.html) · [source](Centre_Finding_Workbook.md)
 - [Further Centre practice: A-011–A-025](https://titanicparker.github.io/how-to-do-it/continuing-practice.html) · [source](Continuing_Centre_Practice.md)
+- [A-033 Centre-first challenge](https://titanicparker.github.io/how-to-do-it/continuing-practice.html#a-033-an-additional-centre-first-challenge-collaborative-research) · [frozen research record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-033.md)
 - [Research white paper](https://titanicparker.github.io/how-to-do-it/white-paper.html) · [source](operative-centre-white-paper.md)
 
 ## The connection to Everything Fresh
@@ -21,3 +22,5 @@ Teaching update: 21 October 2026, against Everything Fresh commit `911699684b509
 ## Maintain the readers
 
 Edit the Markdown sources, then run `python3 scripts/build_readers.py` from the repository root with Pandoc installed. Commit the regenerated HTML alongside its sources. GitHub Pages serves the static files from `main` at the repository root. Markdown edits alone do not rebuild the readers; there is no background synchronisation.
+
+**A-033 teaching synchronisation (21 October 2026):** The authoritative [growing method guide](Canonical_Resolution_Method.md) now matches Everything Fresh's A-033 addendum (source blob `f0287f34e5713a09c3cd56a2a995ec6a8d64e87f`). The further-practice reader includes the collaboratively tutored A-033 exercise, Candidate 22 and explicit Standing/Bearing and Distributed/Focal diligence. This is not independent replication. The earlier A-011–A-025 teaching checkpoint remains historically pinned; research progress is **33/200 investigated, next A-034** at [the research register](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md). The current teaching addendum does not imply the other teaching examples have been refreshed.
