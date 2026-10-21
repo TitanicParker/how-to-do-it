@@ -1,1 +1,23 @@
+# How to do it
+
 A place to acquire the ability to identify the Operative Centre of a completed intelligibility. From that ability, learn what actually emerges from the sentence centre.
+
+## Follow the path
+
+- [Public homepage](https://titanicparker.github.io/how-to-do-it/)
+- [Learning path: Centre finding to dimensional resolution](https://titanicparker.github.io/how-to-do-it/learning-path.html) · [source](Learning_Path.md)
+- [Ten-chapter workbook and complete 200-sentence practice corpus](https://titanicparker.github.io/how-to-do-it/workbook.html) · [source](Centre_Finding_Workbook.md)
+- [Further Centre practice: A-011–A-025](https://titanicparker.github.io/how-to-do-it/continuing-practice.html) · [source](Continuing_Centre_Practice.md)
+- [Research white paper](https://titanicparker.github.io/how-to-do-it/white-paper.html) · [source](operative-centre-white-paper.md)
+
+## The connection to Everything Fresh
+
+How to do it is the teaching route. [Everything Fresh](https://titanicparker.github.io/everything-fresh/) holds the source corpus, [live confirmation protocol](https://titanicparker.github.io/everything-fresh/confirmation-protocol.html), [canonical reference](https://github.com/TitanicParker/everything-fresh/blob/main/THE_54_CONTROL.md), current [receipts](https://titanicparker.github.io/everything-fresh/sentence-receipts.html), full diligence and [register](https://titanicparker.github.io/everything-fresh/RESOLUTION_REGISTER.html).
+
+Learn Centre recovery before using classifications as comparisons. The axes describe one achievement simultaneously. Research examples retain candidate, contested and revised status; the learner comparisons are not an infallible answer key.
+
+Teaching update: 21 October 2026, against Everything Fresh commit `911699684b509b97c9be2e10e2fb348d2aeab5be`. Further practice reproduces Centres and holding accounts from the A-011–A-025 records; pinned and live links identify their provenance. The original corpus wording is retained. Live progress belongs to the research register, not this dated teaching checkpoint.
+
+## Maintain the readers
+
+Edit the Markdown sources, then run `python3 scripts/build_readers.py` from the repository root with Pandoc installed. Commit the regenerated HTML alongside its sources. GitHub Pages serves the static files from `main` at the repository root. Markdown edits alone do not rebuild the readers; there is no background synchronisation.

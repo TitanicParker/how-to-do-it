@@ -11,6 +11,12 @@ The method follows the [Operative Centre Confirmation Protocol](https://github.c
 
 ---
 
+## Continue into Everything Fresh
+
+This workbook develops Centre finding through the first ten sentences. Follow the [learning path](learning-path.html) for the progression from Centre recovery to dimensional resolution, or try [further Centre practice with A-011–A-025](continuing-practice.html).
+
+For the research method, use the [live confirmation protocol](https://titanicparker.github.io/everything-fresh/confirmation-protocol.html). After your own attempt, compare the [current sentence receipts](https://titanicparker.github.io/everything-fresh/sentence-receipts.html) and their linked diligence. Recorded research outcomes include candidates, contested cases and revisions; the teaching accounts are not a unique-answer key.
+
 # Before you begin
 
 ## What is an Operative Centre?
@@ -120,6 +126,8 @@ Would “The villages receive sunlight before the valleys” be fully adequate?
 
 A shorter paraphrase can lose the very distinction that makes the sentence worth saying.
 
+**After your own Centre attempt:** [Compare the current A-001 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-001). This opens the research classification as well as the Centre.
+
 ---
 
 # Chapter 2 — Preserve both sides of a contrast
@@ -173,6 +181,8 @@ Is “Nature versus humanity” a Centre?
 ### Lesson to carry forward
 
 A theme names a territory of thought. A Centre identifies what the sentence specifically establishes within it.
+
+**After your own Centre attempt:** [Compare the current A-002 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-002). This opens the research classification as well as the Centre.
 
 ---
 
@@ -229,6 +239,8 @@ Does the presence of three items automatically mean that completion is spread ac
 ### Lesson to carry forward
 
 Counting nouns does not reveal the Centre. Ask what their combination accomplishes.
+
+**After your own Centre attempt:** [Compare the current A-003 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-003). This opens the research classification as well as the Centre.
 
 ---
 
@@ -288,6 +300,8 @@ Must learning this mean the child previously believed the opposite?
 
 Words such as “will,” “might,” “already,” “every” and “no one” shape what is established. Preserve their work.
 
+**After your own Centre attempt:** [Compare the current A-004 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-004). This opens the research classification as well as the Centre.
+
 ---
 
 # Chapter 5 — Keep the stated means of an outcome
@@ -345,6 +359,8 @@ Would naming a transport system improve the Centre?
 ### Lesson to carry forward
 
 When the sentence establishes an outcome through a means, preserve the connection. Naming either end alone is insufficient.
+
+**After your own Centre attempt:** [Compare the current A-005 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-005). This opens the research classification as well as the Centre.
 
 ---
 
@@ -406,6 +422,8 @@ Why is “This knowledge could help a farmer” not part of the Centre?
 
 Distinguish a consequence established by the sentence from a consequence you can imagine.
 
+**After your own Centre attempt:** [Compare the current A-006 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-006). This opens the research classification as well as the Centre.
+
 ---
 
 # Chapter 7 — Read beyond the main verb
@@ -464,6 +482,8 @@ Why is “the seed carries something” inadequate even though it captures the g
 
 Grammar supplies evidence. It does not substitute for discovering the achievement of the whole.
 
+**After your own Centre attempt:** [Compare the current A-007 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-007). This opens the research classification as well as the Centre.
+
 ---
 
 # Chapter 8 — Notice restoration
@@ -517,6 +537,8 @@ Does this require evidence that a particular resident crossed the bridge?
 ### Lesson to carry forward
 
 A small word can distinguish restoration from first establishment. Do not discard it as decoration.
+
+**After your own Centre attempt:** [Compare the current A-008 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-008). This opens the research classification as well as the Centre.
 
 ---
 
@@ -575,6 +597,8 @@ Is “People became slaves to clocks” an adequate Centre?
 ### Lesson to carry forward
 
 Chronology matters, but it may not be enough. Ask why these particular stages belong in one completed understanding.
+
+**After your own Centre attempt:** [Compare the current A-009 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-009). This opens the research classification as well as the Centre.
 
 ---
 
@@ -642,6 +666,8 @@ If someone says “The recipe survives, and somebody happens to remember somethi
 ### Lesson to carry forward
 
 To identify an achievement precisely, sometimes you must retain what it holds through.
+
+**After your own Centre attempt:** [Compare the current A-010 receipt and open its full diligence](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-010). This opens the research classification as well as the Centre.
 
 ---
 
@@ -1675,5 +1701,6 @@ Sentence wording and original numbering are preserved. The A/B identifiers disti
 ### B-100
 
 100. Shannon entropy measures the average uncertainty of a random variable using the probabilities of its possible outcomes.
+
 
 
