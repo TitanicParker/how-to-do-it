@@ -314,6 +314,34 @@ Compare the exact achievement, its qualifications and its indispensable organisa
 
 </details>
 
+
+## A-034 — one door, four meanings: find the three axes together
+
+> An open door can mean welcome, escape, opportunity, or a forgotten obligation.
+
+**Try the discovery yourself before opening the comparison.** What exactly does *one* open door accomplish through these *four* possible significances? Does the sentence ask anyone to choose a meaning? Can the door literally intend welcome or escape? How can the humanly intelligible possibilities arise from one common condition without an actual interpretation being reported?
+
+Write a Centre in one sentence, then give each plausible three-axis conjunction its strongest near-original expression. Ask where the achievement is sufficient: in the single open condition's capacity, or in the range of outputs considered as a distributed field? Do not decide topology by counting the four meanings.
+
+<details>
+<summary>Open the A-034 discovery and resolution</summary>
+
+**Corrected, confirmed Operative Centre:**
+
+> One open door can give rise to four distinct possibilities of meaning: welcome, escape, opportunity, and forgotten obligation.
+
+**What changed during the investigation:** The first Centre wrongly added “without its actual significance being determined,” inventing a problem of selecting a meaning. The source establishes a positive one-to-many capacity, not an unsettled decision. Owner challenge made that difference visible and prompted an explicitly recorded Centre correction.
+
+**Three axes born at the Centre:** **Opening × Focal × Efficacy**. Opening: several possible meanings are available through one condition. Focal: the one open door is the privileged locus that makes these alternatives one achievement. Efficacy: what holds is the accomplished capacity to signify in these different ways.
+
+**Cell 12 — Branching output.** A close structural expression: “An open door can give rise to welcome, escape, opportunity, or forgotten obligation as four possible meanings of that one open condition.”
+
+**Full-strength rivals:** 15 — Opening × Distributed × Efficacy; 13 — Opening × Distributed × Standing; 05 — Differentiation × Distributed × Bearing; 04 — Differentiation × Distributed × Standing. Each expresses a genuine aspect, but the focal branching capacity best preserves the complete Centre.
+
+[Live A-034 receipt](https://titanicparker.github.io/everything-fresh/sentence-receipts.html#A-034) · [Full discovery record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-034.md)
+
+</details>
+
 ## Continue with unfamiliar material
 
 Choose a new item from the [200-sentence corpus](workbook.html#appendix--the-complete-200-sentence-practice-corpus), preserve your unassisted record, then use the live research register to see whether a comparison is available. Absence of a record is not a licence to invent a supplied answer.
