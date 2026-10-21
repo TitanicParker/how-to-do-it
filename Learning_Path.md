@@ -37,6 +37,8 @@ Try [Further Centre practice: A-011–A-025](continuing-practice.html). Each exe
 
 The comparison accounts come from research records. They are evidence to examine, not infallible marking keys. If you disagree, identify the exact contribution, dependency or achieved identity at issue.
 
+For a more advanced, explicitly tutored example, try [A-033: a Centre-first challenge](continuing-practice.html#a-033-an-additional-centre-first-challenge-collaborative-research). Compare the frozen Centre and its holding account only after your own attempt. The research selects Candidate 22 with moderate confidence, but preserves the Standing/Bearing and Distributed/Focal questions; it is not independent replication.
+
 Then choose unfamiliar sentences from the [complete 200-sentence corpus](workbook.html#appendix--the-complete-200-sentence-practice-corpus). Preserve an unassisted attempt before consulting any available record. Keep some sentences unseen for a later transfer check.
 
 ## 4. Check readiness to begin dimensional work
