@@ -374,3 +374,12 @@ The sentence's point is to say **what the coral reef does**. The main clause ass
 A useful check is to remove the relative clause. “The coral reef shelters creatures” still performs the sentence's principal work. By contrast, the relative clause by itself does not say what the reef does. Read **Relating** as the reef's sheltering relation, **Focal** as the single governing achievement, and **Standing** as the function being stated rather than a one-time incident. The serious rival—making the countless relationships the centre—confuses explanatory detail with governance.
 
 **Status:** owner-accepted, formally recorded; no claim of independent uniqueness. [Full research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-042-resolution-2026-10-23.md).
+
+
+## A-044 — lost key and locked door
+
+> A lost key changes the meaning of an otherwise ordinary locked door.
+
+**Centre:** “A lost key changes the meaning.” **Cell 19 — Direct bearing** (Relating × Focal × Standing). The lost key bears on how the locked door is interpreted. “Otherwise ordinary” establishes a baseline, but the contrast does not govern the sentence. Removing that description retains the central bearing; removing “lost” removes the specified condition that gives the door a different significance. The door need not change physically, and no completed interpretive verdict is asserted. Differentiation and Settlement are useful rivals, but neither captures the governing relation as directly.
+
+**Status:** owner-selected, research receipt filed, uniqueness not independently demonstrated. [Research record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-044-resolution-2026-10-23.md).
