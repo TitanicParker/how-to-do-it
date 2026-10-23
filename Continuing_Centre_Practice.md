@@ -470,3 +470,14 @@ The sentence establishes how the first snowfall bears on the appearance of famil
 ## A-059 — Cell 01 (23 October 2026)
 
 **Sentence:** The world contains more unfinished conversations than any archive could possibly preserve. **Operative Centre:** The quantity of unfinished conversations in the world exceeds what any archive could preserve. **Cell 01 — Differentiation × Focal × Standing.** Differentiation: quantity exceeds archival capacity; Focal: the assertion lands on the quantity of conversations, with the archive as comparator; Standing: the inequality is asserted as an existing condition. Settlement and Release were examined but do not better capture the governing assertion. **Status:** owner-directed, not independently proven unique. A-056 remains unrecorded; A-047 remains dual-candidate. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-059-resolution-2026-10-23.md).
+
+
+## Batch A-060–A-062 — owner-selected (23 October 2026)
+
+**A-060:** “A newborn recognizes rhythms before learning the names of the people nearby.” **Cell 22 — Sequential link (Relating × Distributed × Standing).** Centre: recognition of rhythms precedes learning names. The cue *before* orders two stages. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-060-resolution-2026-10-23.md).
+
+**A-061:** “When the power fails, invisible networks suddenly become visible through their absence.” **Cell 05 — Context-bound mark (Differentiation × Distributed × Bearing).** Centre: the failure makes unnoticed networks perceptible through their absence. The absence bears the distinction; the empty-chair analogy clarified this. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-061-resolution-2026-10-23.md).
+
+**A-062:** “The mountain pass connects communities during summer and separates them through winter.” **Cell 22 — Sequential link (Relating × Distributed × Standing).** Centre: seasonal connection followed by seasonal separation, an established recurring sequence. The compact companion is *Then*. The user raised sequence early; analysis then explored differentiation, opening, relating and settlement candidates before recovering it. The grammatical focus on the pass is **not** Focal topology: the sequence is distributed across seasonal conditions. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-062-resolution-2026-10-23.md).
+
+**Status:** owner-selected dialogue resolutions, not independently proven unique. A-056 remains unrecorded; A-047 remains a recorded dual-candidate case.
