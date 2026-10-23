@@ -342,6 +342,21 @@ Write a Centre in one sentence, then give each plausible three-axis conjunction 
 
 </details>
 
+
+## A-046 — An established method is not a newly reached verdict
+
+> A farmer reads the soil through texture, smell, memory, and experience.
+
+**First find the Centre.** The farmer's reading of the soil is the governing activity. The phrase introduced by **through** identifies the means by which that reading is ordinarily carried out. Removing the phrase leaves a grammatical reading, but loses the specified method. Texture, smell, memory, and experience are not four separate governing readings.
+
+**The decisive owner-led comparison:** “A judge reaches a verdict by considering evidence, testimony, and mitigating factors.” Both constructions gather several kinds of material around one activity. But *reaches a verdict* explicitly states a completed determination; *reads the soil* need not. The further observation “all farmers read the soil” was used to emphasize ordinary established practice, not to assert a universal factual claim.
+
+**Chosen Centre:** the farmer's **already-established way of reading the soil**. The method is not being selected in the sentence; its means are **already chosen**. That distinction directs the dialogue selection to **Cell 46 — Settled alternative — “Chosen.” (Settlement × Focal × Standing)**. Settlement attaches to the method already determined; Focal to one reading served by several means; Standing to the method as an established practice.
+
+**Rivals remain instructive.** Integration × Focal stresses the convergence of several inputs. Distributed mistakes the number of means for the topology of the governing activity. Cell 53 would treat the interpretation as retrospectively complete, which the sentence does not state. The canonical Cell 46 definition describes a definitive answer, so extending it to an established method remains a visible methodological question rather than a concealed certainty.
+
+**Status:** owner-selected dialogue resolution, not independently demonstrated uniqueness. [Research resolution](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-046-dialogue-2026-10-23.md) · [Research register](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md).
+
 ## Continue with unfamiliar material
 
 Choose a new item from the [200-sentence corpus](workbook.html#appendix--the-complete-200-sentence-practice-corpus), preserve your unassisted record, then use the live research register to see whether a comparison is available. Absence of a record is not a licence to invent a supplied answer.
