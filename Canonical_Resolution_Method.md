@@ -5884,3 +5884,8 @@ This checkpoint supplements, but does not rewrite, the historical A-001–A-034 
 ## A-046 — dialogue-selected resolution, 23 October 2026
 
 **Sentence:** A farmer reads the soil through texture, smell, memory, and experience. **Selected:** Cell 46 — Settled alternative — “Chosen.” (Settlement × Focal × Standing). **Operative Centre:** the farmer's established method of reading soil; texture, smell, memory, and experience are already-chosen means serving one focal reading. The method stands as practice rather than being chosen in the sentence. **Status:** owner-led dialogue selection, not independent uniqueness confirmation. [Full resolution](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-046-dialogue-2026-10-23.md). The canonical Cell 46 definitive-answer description remains a point for methodological review. **Next dialogue sentence: A-047.**
+
+
+## A-042 — nested explanation does not relocate the Centre (23 October 2026)
+
+**Owner-selected Cell 19 — Direct bearing** (Relating × Focal × Standing). “The coral reef shelters creatures” is the governing assertion. The “whose survival depends upon countless close relationships” clause is nested explanation, not a competing operative centre; multiplicity in subordinate material does not force Distributed topology. **Status:** accepted and formally recorded, not independently uniqueness-proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-042-resolution-2026-10-23.md).
