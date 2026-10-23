@@ -396,3 +396,14 @@ Read the opening: the stars remain visible in deserts. Then read through **“wh
 The grammar alone is not the verdict. *Where* can introduce a locative relative clause, which makes **Cell 01 (Differentiation × Focal × Standing)** a serious rival: the sentence could be read as one main assertion with a dependent qualification. The accepted reading instead treats both visibility and concealment as necessary to the sentence's operative contrast. **Differentiation** marks the opposition, **Distributed** marks its two-sided achievement, and **Standing** marks conditions rather than completed events.
 
 **Status:** owner-accepted dialogue resolution now formally recorded, not independently uniqueness-proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-045-resolution-2026-10-23.md).
+
+
+## A-047 — two live classifications, not a forced verdict
+
+> The world's busiest ports turn distant intentions into containers moving across oceans.
+
+The phrase **“the world's busiest ports”** is the Focal identity, not a disposable introduction. The predicate describes their **Efficacy**: what these ports do or make possible. It uses a poetic metaphor for the familiar fact that busy ports ship cargo. The reader leaves with a characterization of these ports rather than chiefly a story of intentions taking a boat journey.
+
+**Cell 03 — Boundary act (Differentiation × Focal × Efficacy)** remains live because *busiest* distinguishes a class. But the sentence does not itself define the boundary of that class. **Cell 48 — Path completion (Settlement × Focal × Efficacy)** remains live because the activity is asserted as a settled characteristic and the metaphor evokes realization. But the containers are moving, not necessarily arrived; a confident assertion alone is not Settlement.
+
+**Teaching point:** preserve both when the test establishes Focal and Efficacy but cannot responsibly decide Differentiation versus Settlement. **Status: recorded dual candidate, explicitly marked for revisit, not uniquely resolved.** [Research record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-047-dual-candidate-2026-10-23.md).
