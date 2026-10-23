@@ -416,3 +416,10 @@ The phrase **“the world's busiest ports”** is the Focal identity, not a disp
 **Operative Centre:** a song's form may persist through time even as its associations accumulate and change. **Cell 04 — Scope standing (Differentiation × Distributed × Standing).** The opening **“a song crossing generations”** differentiates the relevant kind of song. **“Crossing generations”** distributes one invariant across multiple temporal positions; Distributed need not mean multiple grammatical subjects. **“May retain its shape”** expresses Standing as a possibility, not a guaranteed outcome. **“While gathering new associations”** makes the changing interpretive context explicit without defeating the persistence of form.
 
 **Rival test:** Settlement × Focal × Efficacy captures the single song and its apparent capacity, but does not adequately account for the invariant's distribution across generations. **Owner-selected resolution, not independent proof of uniqueness.** [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-048-resolution-2026-10-23.md).
+
+
+## A-049 — Cell 19, Direct bearing (owner-selected)
+
+> The first snowfall makes familiar streets newly visible by hiding their details.
+
+The sentence establishes how the first snowfall bears on the appearance of familiar streets: detail is concealed and streets become newly visible. **Cell 19 = Relating × Focal × Standing** (not Differentiation × Focal × Bearing). Relating: snowfall's connection to altered appearance. Focal: first snowfall governs. Standing: the relation is stated as obtaining. The earlier mistaken matrix attribution was explicitly withdrawn. Do not mistake the English name “Direct bearing” for the third dimension Bearing. Owner-selected, not uniquely proven.
