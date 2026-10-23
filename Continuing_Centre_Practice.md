@@ -407,3 +407,12 @@ The phrase **“the world's busiest ports”** is the Focal identity, not a disp
 **Cell 03 — Boundary act (Differentiation × Focal × Efficacy)** remains live because *busiest* distinguishes a class. But the sentence does not itself define the boundary of that class. **Cell 48 — Path completion (Settlement × Focal × Efficacy)** remains live because the activity is asserted as a settled characteristic and the metaphor evokes realization. But the containers are moving, not necessarily arrived; a confident assertion alone is not Settlement.
 
 **Teaching point:** preserve both when the test establishes Focal and Efficacy but cannot responsibly decide Differentiation versus Settlement. **Status: recorded dual candidate, explicitly marked for revisit, not uniquely resolved.** [Research record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-047-dual-candidate-2026-10-23.md).
+
+
+## A-048 — the invariant distributed across generations (Cell 04)
+
+> A song crossing generations may retain its shape while gathering new associations.
+
+**Operative Centre:** a song's form may persist through time even as its associations accumulate and change. **Cell 04 — Scope standing (Differentiation × Distributed × Standing).** The opening **“a song crossing generations”** differentiates the relevant kind of song. **“Crossing generations”** distributes one invariant across multiple temporal positions; Distributed need not mean multiple grammatical subjects. **“May retain its shape”** expresses Standing as a possibility, not a guaranteed outcome. **“While gathering new associations”** makes the changing interpretive context explicit without defeating the persistence of form.
+
+**Rival test:** Settlement × Focal × Efficacy captures the single song and its apparent capacity, but does not adequately account for the invariant's distribution across generations. **Owner-selected resolution, not independent proof of uniqueness.** [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-048-resolution-2026-10-23.md).
