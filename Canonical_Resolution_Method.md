@@ -5874,3 +5874,8 @@ This checkpoint supplements, but does not rewrite, the historical A-001–A-034 
 ### A-036 current revision — 23 October 2026
 
 **Current dialogue selection: Cell 49 — Recurrence settlement — “It returns.”** (Settlement × Distributed × Standing), superseding the earlier dialogue selection of Cell 22. The return completes the boats' outward activity and brings varied results back together at dawn. The time phrase locates the completion; it does not establish Sequential link as the governing achievement. The earlier A-036 row above is retained as a historical checkpoint, not the current classification. [Current revised diligence](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-036-revision-2026-10-23.md). The result is owner-led dialogue selection, not an independent uniqueness proof. **Next sequential sentence: A-037.**
+
+
+### A-041 current selection — 23 October 2026
+
+**Cell 04 — Scope standing — “Within this.”** (Differentiation × Distributed × Standing). The opening “In a courtroom” governs the scope of the comparative possibility, rather than the comparison selecting the cell. Earlier provisional 05 and other rivals remain in the historical examination, not the current selection. [A-041 resolution](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-041-resolution-2026-10-23.md). **Next unresolved: A-042**, which has a dialogue preference for 19 but lacks a formal receipt.
