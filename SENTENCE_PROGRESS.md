@@ -4,12 +4,12 @@
 
 | Category | Count | Meaning |
 |---|---:|---|
-| Recorded first-pass or dialogue resolutions | **45** | A-001–A-044, A-046. Includes candidate, contested, revised and owner-selected records; **not** 43 uniquely proven classifications. |
-| Owner-accepted in dialogue, awaiting formal research receipts | **1** | A-045 (Cell 04). These are **not** included in the 43 recorded count. |
+| Recorded first-pass or dialogue resolutions | **46** | A-001–A-046. Includes candidate, contested, revised and owner-selected records; **not** 43 uniquely proven classifications. |
+| Owner-accepted in dialogue, awaiting formal research receipts | **0** | None. No dialogue-accepted cases currently await receipts. |
 | No recorded or owner-accepted resolution | **154** | Remaining corpus sentences. |
-| **Total** | **200** | 45 + 1 + 154. |
+| **Total** | **200** | 46 + 0 + 154. |
 
-**Progress in dialogue including pending receipts: 46/200.** **Recorded in research: 45/200.** **Not yet recorded: 155/200**, of which 1 have dialogue-accepted classifications and 154 have none. This is a workflow tally, not a count of independently verified unique solutions.
+**Progress in dialogue including pending receipts: 46/200.** **Recorded in research: 46/200.** **Not yet recorded: 154/200**, of which none have dialogue-accepted classifications and 154 have none. This is a workflow tally, not a count of independently verified unique solutions.
 
 The two repositories have different functions: [Everything Fresh](https://github.com/TitanicParker/everything-fresh) keeps research evidence and revision history; [How to do it](https://github.com/TitanicParker/how-to-do-it) teaches the same current outcomes and links to that evidence. They must display **the same status totals**, not necessarily identical supporting files.
 
