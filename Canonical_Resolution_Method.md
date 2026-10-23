@@ -5845,3 +5845,27 @@ All 32 first-pass record blobs and revision 02 are identified beside the embedde
 **Teaching principle:** The Operative Centre is where the three axes are born together. Express each rival as a complete sentence close to the original, then ask whether it preserves the exact achieved identity. Do not infer a selection problem merely from multiple possibilities, or infer Distributed merely by counting outputs. Do not let the labels determine the Centre.
 
 **Complete source investigation:** [A-034](laboratory/resolutions/A-034.md). **Corpus progress:** 34/200; next A-035.
+
+
+## Cross-repository research synchronisation — 23 October 2026
+
+This checkpoint supplements, but does not rewrite, the historical A-001–A-034 teaching narrative. The authoritative status is the [live Everything Fresh resolution register](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md); the [confirmation protocol](https://github.com/TitanicParker/everything-fresh/blob/main/OPERATIVE_CENTRE_CONFIRMATION_PROTOCOL.md) still requires a frozen Gate One before Gate Two. Dialogue selections are not uniqueness proofs or independently blinded confirmations.
+
+**Research coverage:** 35 original first-pass records (A-001–A-035); six additional dialogue working-resolution receipts (A-036–A-040 and A-043); A-041 is open; A-042 has a dialogue preference for 19 mentioned in the register but no formal receipt. Thus 41 distinct sentences have a recorded first-pass or dialogue working resolution, not 41 uniquely confirmed cells. The sequential formal first-pass queue remains at A-036, even though later dialogue receipts exist.
+
+**22 October revisions:** [A-002](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-002-revision-2026-10-22.md) → 07 Opposed standing; [A-005](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-005-revision-2026-10-22.md) → 42 Role activation; [A-007](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-007-revision-02.md) → 40 Role array (reaffirmed); [A-014](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-014-revision-2026-10-22.md) → 06 Field separation. These are dialogue-selected current interpretations, with historical records preserved.
+
+| Sentence | Current working result | Research status and provenance |
+|---|---|---|
+| A-035 | 06 — Field separation | [Dialogue revision; prior first-pass candidate retained](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-035-revision-2026-10-22.md) |
+| A-036 | 22 — Sequential link | [Dialogue working resolution; rivals preserved](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-036-dialogue-2026-10-22.md) |
+| A-037 | 12 — Branching output | [Dialogue working resolution; rivals preserved](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-037-dialogue-2026-10-22.md) |
+| A-038 | 04 — Scope standing | [Dialogue working resolution; rivals preserved](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-038-dialogue-2026-10-22.md) |
+| A-039 | 22 — Sequential link | [Dialogue working resolution; rivals preserved](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-039-dialogue-2026-10-22.md) |
+| A-040 | 19 — Direct bearing | [Dialogue working resolution; rivals preserved](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-040-dialogue-2026-10-22.md) |
+| A-041 | No selected cell | [Open examination; 05 provisional, 08 and 20 remain rivals](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-041-dialogue-examination-2026-10-22.md) |
+| A-043 | 51 — Case settlement | [Dialogue working resolution; 15 remains a strong rival](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-043-dialogue-2026-10-22.md) |
+
+**Methodological findings:** Preserve the exact working construction and its context; do not let a traffic-cop word select a cell. The A-035 revision stresses that opposite verb polarity alone is not structural evidence; distinct effects under a common influence matter. A-041 tests whether “in a courtroom” governs or only situates the comparison. A-043 keeps Opening × Distributed × Efficacy (15) as a serious rival to its dialogue-selected Settlement × Distributed × Efficacy (51). These boundaries remain research questions, not teaching rules.
+
+**Teaching alignment:** The [working-word reading guide](https://github.com/TitanicParker/how-to-do-it/blob/main/Reading_the_Work_of_Language.md) is a recognition aid, not a word-to-cell dictionary. The proposed orthogonal equivalents (e.g., cause-and-effect for 21) are exploratory conversation hypotheses and are **not** yet part of the confirmed canonical reference. B-037 and B-038 were discussed conversationally as possible 46 and 21 respectively, but have no formal corpus receipt here and must not be counted as persisted resolutions.
