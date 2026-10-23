@@ -4,7 +4,7 @@
 
 | Category | Count | Meaning |
 |---|---:|---|
-| Recorded first-pass or dialogue resolutions | **46** | A-001–A-046. Includes candidate, contested, revised and owner-selected records; **not** 43 uniquely proven classifications. |
+| Recorded first-pass or dialogue resolutions | **46** | A-001–A-046. Includes candidate, contested, revised and owner-selected records; **not** a count of uniquely proven classifications. |
 | Owner-accepted in dialogue, awaiting formal research receipts | **0** | None. No dialogue-accepted cases currently await receipts. |
 | No recorded or owner-accepted resolution | **154** | Remaining corpus sentences. |
 | **Total** | **200** | 46 + 0 + 154. |
