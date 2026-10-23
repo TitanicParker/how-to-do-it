@@ -5894,3 +5894,8 @@ This checkpoint supplements, but does not rewrite, the historical A-001–A-034 
 ## A-044 — the lost key's bearing on the door (23 October 2026)
 
 **Cell 19 — Direct bearing** (Relating × Focal × Standing). **Centre:** “A lost key changes the meaning.” “Otherwise ordinary” supports the contrast but does not replace the governing effect on the door's significance. Not a physical change or a completed verdict. **Status:** owner-selected, formally recorded, uniqueness not independently demonstrated. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-044-resolution-2026-10-23.md).
+
+
+## A-045 — “where” directs a contrast (23 October 2026)
+
+**Canonical sentence:** The stars remain visible in deserts where city lights conceal their patterns. **Owner-accepted:** **Cell 04 — Scope standing (“Within this”)** (**Differentiation × Distributed × Standing**). **Operative Centre:** the turn at “where” into a contrast between the stars' visibility and city lights concealing their patterns. The two sides jointly achieve the contrast, even though “where” introduces a grammatically subordinate clause. Substituting “whereas” makes the contrast explicit without changing the owner's operative reading; this is a diagnostic only, and the original “where” remains in the corpus. The strictly locative reading and Cell 01 (Differentiation × Focal × Standing) remain recorded as a serious grammatical rival, not silently erased. **Status:** owner-accepted dialogue resolution, formally recorded, not independent uniqueness proof. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-045-resolution-2026-10-23.md).
