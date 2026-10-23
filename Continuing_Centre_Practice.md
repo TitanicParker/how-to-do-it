@@ -362,3 +362,15 @@ Write a Centre in one sentence, then give each plausible three-axis conjunction 
 Choose a new item from the [200-sentence corpus](workbook.html#appendix--the-complete-200-sentence-practice-corpus), preserve your unassisted record, then use the live research register to see whether a comparison is available. Absence of a record is not a licence to invent a supplied answer.
 
 When your Centre work is sufficiently dependable, follow the [passage into dimensional resolution](learning-path.html#5-learn-the-axes-through-the-confirmed-achievement).
+
+## A-042 — the reef shelters; the relationships are nested
+
+> The coral reef shelters creatures whose survival depends upon countless close relationships.
+
+**Accepted Centre:** “The coral reef shelters creatures.” **Cell 19 — Direct bearing — “It bears on this.”** (**Relating × Focal × Standing**.)
+
+The sentence's point is to say **what the coral reef does**. The main clause asserts sheltering; the relative clause beginning *whose* explains the sheltered creatures' dependence on close relationships. Those relationships are **nested** in the governing structure. Their number does not make the operative topology Distributed: one reef-sheltering achievement remains Focal.
+
+A useful check is to remove the relative clause. “The coral reef shelters creatures” still performs the sentence's principal work. By contrast, the relative clause by itself does not say what the reef does. Read **Relating** as the reef's sheltering relation, **Focal** as the single governing achievement, and **Standing** as the function being stated rather than a one-time incident. The serious rival—making the countless relationships the centre—confuses explanatory detail with governance.
+
+**Status:** owner-accepted, formally recorded; no claim of independent uniqueness. [Full research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-042-resolution-2026-10-23.md).
