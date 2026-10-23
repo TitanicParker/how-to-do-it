@@ -383,3 +383,16 @@ A useful check is to remove the relative clause. “The coral reef shelters crea
 **Centre:** “A lost key changes the meaning.” **Cell 19 — Direct bearing** (Relating × Focal × Standing). The lost key bears on how the locked door is interpreted. “Otherwise ordinary” establishes a baseline, but the contrast does not govern the sentence. Removing that description retains the central bearing; removing “lost” removes the specified condition that gives the door a different significance. The door need not change physically, and no completed interpretive verdict is asserted. Differentiation and Settlement are useful rivals, but neither captures the governing relation as directly.
 
 **Status:** owner-selected, research receipt filed, uniqueness not independently demonstrated. [Research record](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-044-resolution-2026-10-23.md).
+
+
+## A-045 — “where” can turn the operative direction
+
+> The stars remain visible in deserts where city lights conceal their patterns.
+
+**Centre:** the contrast introduced at **“where”**, between continuing visibility and concealment of the stars' patterns. **Cell 04 — Scope standing** (**Differentiation × Distributed × Standing**).
+
+Read the opening: the stars remain visible in deserts. Then read through **“where”**: city lights conceal their patterns. The owner's key observation is that *where* turns the direction of the sentence into contrast. Replacing it with *whereas* makes that opposition overt, but need not change the operative achievement. **Keep the original “where”**; the substitution is only a test.
+
+The grammar alone is not the verdict. *Where* can introduce a locative relative clause, which makes **Cell 01 (Differentiation × Focal × Standing)** a serious rival: the sentence could be read as one main assertion with a dependent qualification. The accepted reading instead treats both visibility and concealment as necessary to the sentence's operative contrast. **Differentiation** marks the opposition, **Distributed** marks its two-sided achievement, and **Standing** marks conditions rather than completed events.
+
+**Status:** owner-accepted dialogue resolution now formally recorded, not independently uniqueness-proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-045-resolution-2026-10-23.md).
