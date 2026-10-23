@@ -5916,3 +5916,8 @@ This checkpoint supplements, but does not rewrite, the historical A-001–A-034 
 > The first snowfall makes familiar streets newly visible by hiding their details.
 
 The sentence establishes how the first snowfall bears on the appearance of familiar streets: detail is concealed and streets become newly visible. **Cell 19 = Relating × Focal × Standing** (not Differentiation × Focal × Bearing). Relating: snowfall's connection to altered appearance. Focal: first snowfall governs. Standing: the relation is stated as obtaining. The earlier mistaken matrix attribution was explicitly withdrawn. Do not mistake the English name “Direct bearing” for the third dimension Bearing. Owner-selected, not uniquely proven.
+
+
+## A-050 — owner-selected Cell 22, Sequential link (23 October 2026)
+
+**Sentence:** A treaty is paper until people organize their conduct around its promises. **Operative Centre:** the sentence establishes the ordered dependency by which a treaty remains paper until its promises become a basis for conduct. **Cell 22 — Relating × Distributed × Standing.** Relating: the treaty's practical significance depends on conduct. Distributed: *until* orders two constitutive conditions, paper alone and conduct organized around promises. Standing: a general condition is established, not an accomplished event. **Rivals:** Cell 21 (Relating × Focal × Efficacy) overemphasizes achieved effect; Cell 19 (Relating × Focal × Standing) underemphasizes sequential distribution. Owner-selected, not independently uniquely proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-050-resolution-2026-10-23.md).
