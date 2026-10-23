@@ -428,3 +428,10 @@ The sentence establishes how the first snowfall bears on the appearance of famil
 ## A-050 — owner-selected Cell 22, Sequential link (23 October 2026)
 
 **Sentence:** A treaty is paper until people organize their conduct around its promises. **Operative Centre:** the sentence establishes the ordered dependency by which a treaty remains paper until its promises become a basis for conduct. **Cell 22 — Relating × Distributed × Standing.** Relating: the treaty's practical significance depends on conduct. Distributed: *until* orders two constitutive conditions, paper alone and conduct organized around promises. Standing: a general condition is established, not an accomplished event. **Rivals:** Cell 21 (Relating × Focal × Efficacy) overemphasizes achieved effect; Cell 19 (Relating × Focal × Standing) underemphasizes sequential distribution. Owner-selected, not independently uniquely proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-050-resolution-2026-10-23.md).
+
+
+## A-051 — Settled alternative (Cell 46)
+
+> The human body repairs small injuries without asking permission from conscious thought.
+
+**Operative Centre:** the sentence establishes bodily repair as ordinarily independent of conscious permission. **Cell 46 — Settlement × Focal × Standing.** Settlement: it asserts this is how repair happens without implying all other ways are impossible. Focal: the human body governs the claim. Standing: the ongoing condition of autonomy, not a specific repair event. “Without asking permission” is metaphorical, clarifying independence. **Rival Cell 48 — Settlement × Focal × Efficacy:** effective repair is mentioned, but the operative point is the manner of its occurrence. Owner-selected, not independent uniqueness proof.
