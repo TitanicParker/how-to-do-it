@@ -5889,3 +5889,8 @@ This checkpoint supplements, but does not rewrite, the historical A-001–A-034 
 ## A-042 — nested explanation does not relocate the Centre (23 October 2026)
 
 **Owner-selected Cell 19 — Direct bearing** (Relating × Focal × Standing). “The coral reef shelters creatures” is the governing assertion. The “whose survival depends upon countless close relationships” clause is nested explanation, not a competing operative centre; multiplicity in subordinate material does not force Distributed topology. **Status:** accepted and formally recorded, not independently uniqueness-proven. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-042-resolution-2026-10-23.md).
+
+
+## A-044 — the lost key's bearing on the door (23 October 2026)
+
+**Cell 19 — Direct bearing** (Relating × Focal × Standing). **Centre:** “A lost key changes the meaning.” “Otherwise ordinary” supports the contrast but does not replace the governing effect on the door's significance. Not a physical change or a completed verdict. **Status:** owner-selected, formally recorded, uniqueness not independently demonstrated. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-044-resolution-2026-10-23.md).
