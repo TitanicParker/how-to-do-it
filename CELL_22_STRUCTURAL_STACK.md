@@ -31,3 +31,10 @@ Count each recorded sentence exactly once by its **current displayed primary Cel
 ## Meaning-blind comparison protocol
 
 Read the ten sentences consecutively, without taxonomic explanations between them. Notice whether the whole sentence is completed by an order, dependency, sequence, or continuing relational arrangement. Then compare *where* the sentence finishes doing its work rather than relying on recurring subject words. Do not retrospectively force structurally different cases together merely because the register records the same provisional cell. Preserve all originals and dissenting outcomes.
+
+
+## Observed result — reverse consistency test opened (24 October 2026)
+
+On reading this stack, the owner reported that **many of these sentences do not appear to have the same structure**. This observation contradicts the expectation of readily visible structural likeness. **Do not recast this as successful saturation or as proof of misclassification.** It creates a test: independently retrace each original's unfolding circuit and freeze its Centre without seeing the Cell 22 label; only then compare the completed achievements. A-001 appears overtly sequential; A-031 appears to concern persistence after an initial setting; A-039 appears to coordinate two functions. These are observations prompting review, **not corrected resolutions**. Preserve all current recorded classifications pending comparative audit.
+
+[Experimental protocol and Pythagorean cross-language hypothesis](SENTENCE_CIRCUIT_AND_INVARIANCE_2026-10-24.md).
