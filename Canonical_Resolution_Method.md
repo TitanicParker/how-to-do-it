@@ -6067,3 +6067,34 @@ Owner-dialogue preferred research readings, not independently proven unique. A-0
 **Original:** A broken promise can remain active long after its words are forgotten.
 
 **Preferred axes:** **Settlement × Release × Standing**. **Operative centre and rivals:** A broken promise's continuing force is established as possible beyond the forgetting of its words. Cell 46 and Cell 49 were tested; 'can' does not imply inevitability. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-075-resolution-2026-10-24.md).
+
+
+## Owner-accepted continuation — A-076–A-080 (24 October 2026)
+
+Recorded corpus readings: A-076, A-078, A-079, A-080. **A-077 remains unresolved as a corpus sentence** because its actual original has a different final clause from the fog/coast sentence discussed in dialogue. The owner's Cell 02 acceptance for the latter is preserved as a [separate dialogue witness](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/EXT-A-077-fog-coast-dialogue-variant-2026-10-24.md), not silently assigned to A-077. All current corpus readings are owner-chosen research candidates, not proven unique.
+
+### A-076 — Cell 46, Settled alternative
+
+**Original:** Every scientific instrument makes certain differences detectable while leaving others beyond its reach.
+
+**Selected axes:** Settlement × Focal × Standing. **Operative Centre:** Universal class claim establishes one characteristic limit of detectability. [Full research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-076-resolution-2026-10-24.md).
+
+### A-078 — Cell 46, Settled alternative
+
+**Original:** A crowded dinner table can hold several histories inside one shared conversation.
+
+**Selected axes:** Settlement × Focal × Standing. **Operative Centre:** The sentence asserts a characteristic capacity for integration rather than itself gathering those histories. [Full research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-078-resolution-2026-10-24.md).
+
+### A-079 — Cell 46, Settled alternative
+
+**Original:** The oldest rocks on earth preserve traces of conditions nobody witnessed directly.
+
+**Selected axes:** Settlement × Focal × Standing. **Operative Centre:** The initial designation scopes the class, then a general characteristic is asserted. [Full research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-079-resolution-2026-10-24.md).
+
+### A-080 — Cell 02, Binary bearing
+
+**Original:** An election changes who may decide, even when the buildings remain unchanged.
+
+**Selected axes:** Differentiation × Focal × Bearing. **Operative Centre:** The change is distinguished as concerning decision-making authority rather than the physical setting. [Full research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-080-resolution-2026-10-24.md).
+
+**Structural-stack observation:** [Cell 22 — ten original sentences displayed together](https://github.com/TitanicParker/everything-fresh/blob/main/CELL_22_STRUCTURAL_STACK.md). Cell 22 is the most frequent current Atlas primary label (10 of the 78 recorded corpus readings). This is a descriptive register frequency, not a uniqueness proof.
