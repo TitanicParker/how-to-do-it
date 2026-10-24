@@ -6098,3 +6098,16 @@ Recorded corpus readings: A-076, A-078, A-079, A-080. **A-077 remains unresolved
 **Selected axes:** Differentiation × Focal × Bearing. **Operative Centre:** The change is distinguished as concerning decision-making authority rather than the physical setting. [Full research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-080-resolution-2026-10-24.md).
 
 **Structural-stack observation:** [Cell 22 — ten original sentences displayed together](https://github.com/TitanicParker/everything-fresh/blob/main/CELL_22_STRUCTURAL_STACK.md). Cell 22 is the most frequent current Atlas primary label (10 of the 78 recorded corpus readings). This is a descriptive register frequency, not a uniqueness proof.
+
+
+## Methodological checkpoint — sentence circuits and invariance (24 October 2026)
+
+A new **experimental** reading procedure traces each complete sentence as a sequence of constraint-changing components (akin to an electrical circuit) instead of looking for a known cell first. At each contribution, ask what completions remain available, what has been limited, what is preserved, and how the sentence now needs to finish. Only after the whole sentence lands should its single Operative Centre govern Transformation × Topology × Persistence. The reading is not licensed to select an axis from the subject's described action or to retrofit the trace to an expected number.
+
+**Reverse consistency / negative finding:** the ten recorded Cell 22 sentences did not immediately reveal one common structural behaviour when stacked verbatim. Preserve this as a potential reliability signal; blind re-trace the ten Centres before changing their recorded classifications. The failure of immediate recognition neither proves Cell 22 wrong nor invalidates stacking as a method.
+
+**Cross-language invariance hypothesis:** a faithful translation should preserve the governing completion across different grammars, ideally yielding the same cell under *blind* independent re-resolution. Distinguish invariant-guided translation from blind validation to avoid circularity. Preserve scope, modality and conditionals. The Pythagorean theorem was offered as a **non-corpus illustration** of Cell 23, Reciprocal shift (Relating × Distributed × Bearing), with the 90-degree angle maintained while sides covary and remain bound by the equality. Its mathematical invariance is established; the claimed universal Cell 23 landing and conclusions about unchanging human cognition remain questions for actual tests.
+
+**Document:** [Sentence circuits, structural stacking and translation invariance — 24 October 2026](SENTENCE_CIRCUIT_AND_INVARIANCE_2026-10-24.md).
+
+**Current authoritative corpus tally:** **78/200** recorded; **122/200** unrecorded. **Cell 22 has 10 primary assignments**, and **A-077 remains unrecorded** because the fog/coast dialogue wording is different from the exact corpus A-077. Counts record workflow status, not uniqueness.
