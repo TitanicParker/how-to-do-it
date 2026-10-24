@@ -6003,3 +6003,38 @@ These are preferred dialogue-based resolutions, not independently proven unique.
 **Original:** A museum preserves objects, but visitors must reconstruct the lives around them.
 
 **Preferred:** **Differentiation × Distributed × Standing**. **Operative Centre:** The 'but' clause sets the sufficiency limit of preservation; object preservation is distinguished from life reconstruction. Voice: 'This far, but not that far.' This comparison prompted the A-058 revision. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-066-resolution-2026-10-24.md).
+
+
+## Continuation — A-067–A-071 (24 October 2026)
+
+These are owner-dialogue preferred resolutions, not independently proven unique. A-056 remains unrecorded and A-047 is a dual-candidate case. Cell 54 is the accepted candidate for A-071.
+
+### A-067 — Cell 06, Field separation
+
+**Original:** Under city pavement, roots and pipes compete for space without ever meeting.
+
+**Preferred:** **Differentiation × Distributed × Efficacy**. **Operative Centre / test:** Within the same underground field distinct occupants compete for space even without contact; 'These within these.' [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-067-resolution-2026-10-24.md).
+
+### A-068 — Cell 46, Settled alternative
+
+**Original:** A child learns fairness partly by noticing when the rules change unexpectedly.
+
+**Preferred:** **Settlement × Focal × Standing**. **Operative Centre / test:** The sentence settles one way of learning, qualified by 'partly'; Cell 19 describes an internal bearing but does not govern the whole sentence. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-068-resolution-2026-10-24.md).
+
+### A-069 — Cell 46, Settled alternative
+
+**Original:** The newspaper headline compresses complicated events into a doorway for public attention.
+
+**Preferred:** **Settlement × Focal × Standing**. **Operative Centre / test:** The sentence establishes the characteristic way a headline works. Integration belongs to the headline's described operation, Settlement to the sentence's established characterization. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-069-resolution-2026-10-24.md).
+
+### A-070 — Cell 22, Sequential link
+
+**Original:** A drought begins in missing rain and continues through prices, choices, and migrations.
+
+**Preferred:** **Relating × Distributed × Standing**. **Operative Centre / test:** 'Begins ... continues' establishes an order from onset to consequences, but not a strict order among prices, choices and migrations. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-070-resolution-2026-10-24.md).
+
+### A-071 — Cell 54, Continuation discharge
+
+**Original:** An apology cannot reverse yesterday, but it can alter tomorrow's relationship.
+
+**Preferred:** **Settlement × Release × Efficacy**. **Operative Centre / test:** The sentence discharges an expectation of past-reversing efficacy and settles on another effective capacity, altering tomorrow's relationship. Cells 02, 07, 46, 52 were examined. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-071-resolution-2026-10-24.md).
