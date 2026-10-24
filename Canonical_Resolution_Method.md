@@ -5974,3 +5974,32 @@ The sentence establishes how the first snowfall bears on the appearance of famil
 **A-062:** “The mountain pass connects communities during summer and separates them through winter.” **Cell 22 — Sequential link (Relating × Distributed × Standing).** Centre: seasonal connection followed by seasonal separation, an established recurring sequence. The compact companion is *Then*. The user raised sequence early; analysis then explored differentiation, opening, relating and settlement candidates before recovering it. The grammatical focus on the pass is **not** Focal topology: the sequence is distributed across seasonal conditions. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-062-resolution-2026-10-23.md).
 
 **Status:** owner-selected dialogue resolutions, not independently proven unique. A-056 remains unrecorded; A-047 remains a recorded dual-candidate case.
+
+
+## Continuation — A-063–A-066 (24 October 2026)
+
+These are preferred dialogue-based resolutions, not independently proven unique. A-056 remains unrecorded; A-047 remains contested. A-058 has been revised from Cell 18 to Cell 04; its superseded record remains in the A-058 research receipt.
+
+### A-063 — Cell 05, Context-bound mark
+
+**Original:** A recipe changes when ingredients travel, yet dinner still gathers people together.
+
+**Preferred:** **Differentiation × Distributed × Bearing**. **Operative Centre:** Changing recipe composition is distinguished from continuing social gathering; the 'yet still' contrast itself bears the distinction. Voice: 'Changes — yet still.' Rivals Cell 04 and 06. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-063-resolution-2026-10-24.md).
+
+### A-064 — Cell 14, Span-carried reach
+
+**Original:** At low tide, hidden rock pools briefly become neighborhoods open to inspection.
+
+**Preferred:** **Opening × Distributed × Bearing**. **Operative Centre:** An opening distributed across rock pools is available only under the temporary low-tide condition. Voice: 'Open while the tide is low.' [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-064-resolution-2026-10-24.md).
+
+### A-065 — Cell 19, Direct bearing
+
+**Original:** The first bridge across a river changes both banks without moving either.
+
+**Preferred:** **Relating × Focal × Standing**. **Operative Centre:** A single development directly affects the already existing relation between the two banks. Neither 'first' nor 'without moving either' governs separately. Voice: 'Between them, both change.' [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-065-resolution-2026-10-24.md).
+
+### A-066 — Cell 04, Scope standing
+
+**Original:** A museum preserves objects, but visitors must reconstruct the lives around them.
+
+**Preferred:** **Differentiation × Distributed × Standing**. **Operative Centre:** The 'but' clause sets the sufficiency limit of preservation; object preservation is distinguished from life reconstruction. Voice: 'This far, but not that far.' This comparison prompted the A-058 revision. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-066-resolution-2026-10-24.md).
