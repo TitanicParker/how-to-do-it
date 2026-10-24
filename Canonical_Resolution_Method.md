@@ -6038,3 +6038,32 @@ These are owner-dialogue preferred resolutions, not independently proven unique.
 **Original:** An apology cannot reverse yesterday, but it can alter tomorrow's relationship.
 
 **Preferred:** **Settlement × Release × Efficacy**. **Operative Centre / test:** The sentence discharges an expectation of past-reversing efficacy and settles on another effective capacity, altering tomorrow's relationship. Cells 02, 07, 46, 52 were examined. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-071-resolution-2026-10-24.md).
+
+
+## Continuation — A-072–A-075 (24 October 2026)
+
+Owner-dialogue preferred research readings, not independently proven unique. A-074 carries an explicit hesitation; A-056 remains unrecorded and A-047 remains dual-candidate.
+
+### A-072 — Cell 46, Settled alternative
+
+**Original:** The train timetable coordinates thousands of decisions made by people who never meet.
+
+**Preferred axes:** **Settlement × Focal × Standing**. **Operative centre and rivals:** The sentence settles a characteristic timetable function; integration belongs to what the timetable does, not to the sentence's performed operation. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-072-resolution-2026-10-24.md).
+
+### A-073 — Cell 49, Recurrence settlement
+
+**Original:** In spring, a vacant lot becomes a garden through many small commitments.
+
+**Preferred axes:** **Settlement × Distributed × Standing**. **Operative centre and rivals:** Spring frames a characteristic seasonal occurrence; collective commitments are its mechanism, not necessarily the sentence's governing achievement. Recurrence is inferred from seasonal framing, not explicitly quantified. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-073-resolution-2026-10-24.md).
+
+### A-074 — Cell 05, Context-bound mark
+
+**Original:** A mountain village measures distance in effort where maps measure it in kilometers.
+
+**Preferred axes:** **Differentiation × Distributed × Bearing**. **Operative centre and rivals:** The same distance receives context-specific measures. Agreement explicitly hesitant; Cell 46 settlement remains a rival. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-074-resolution-2026-10-24.md).
+
+### A-075 — Cell 52, Transformation release
+
+**Original:** A broken promise can remain active long after its words are forgotten.
+
+**Preferred axes:** **Settlement × Release × Standing**. **Operative centre and rivals:** A broken promise's continuing force is established as possible beyond the forgetting of its words. Cell 46 and Cell 49 were tested; 'can' does not imply inevitability. [Research receipt](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/resolutions/A-075-resolution-2026-10-24.md).
