@@ -1,6 +1,9 @@
 # The Operative Centre Method
 ## Canonical growing guide for a new GPT — Edition 1, A-001–A-032
 
+> **Current continuation checkpoint — 24 October 2026:** The “Edition 1, A-001–A-032” title below describes this guide's original historical compilation, **not the current corpus coverage**. Current recorded progress is **78/200** (A-056 and A-077 unrecorded), with 122 outstanding. Follow the [shared progress ledger](SENTENCE_PROGRESS.md), [latest circuit-and-invariance methodological discussion](SENTENCE_CIRCUIT_AND_INVARIANCE_2026-10-24.md), and [authoritative research register](https://github.com/TitanicParker/everything-fresh/blob/main/laboratory/RESOLUTION_REGISTER.md). Earlier numerical snapshots within this growing historical guide are retained for provenance, not as today's tally.
+
+
 **Compiled:** 21 October 2026, Europe/Dublin.  
 **Scope:** the working method, its vocabulary, decision constraints, and the complete first 32 persisted investigations, including A-007 revision 02.  
 **Purpose:** let a new GPT understand and continue the work without having to reconstruct the conversation.
