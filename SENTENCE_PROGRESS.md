@@ -14,3 +14,6 @@
 The two repositories have different functions: [Everything Fresh](https://github.com/TitanicParker/everything-fresh) keeps research evidence and revision history; [How to do it](https://github.com/TitanicParker/how-to-do-it) teaches the same current outcomes and links to that evidence. They must display **the same status totals**, not necessarily identical supporting files.
 
 **Publication rule:** when a sentence is accepted, update the research record, teaching treatment, shared tally and both published pages, then verify both. Old historical checkpoints in other documents are not the current count. The live count changes only after a verified update.
+
+
+**24 October methodological audit:** [Sentence-as-circuit tracing, Cell 22 stacking and cross-language invariance](SENTENCE_CIRCUIT_AND_INVARIANCE_2026-10-24.md). The stack exposed a **potential inconsistency**, not a proved error; ten primary Cell 22 labels await blind comparison. The Pythagorean theorem's proposed Cell 23 is **outside** the 200-sentence tally. A-077's dialogue variant remains separate from its unresolved exact corpus sentence.
